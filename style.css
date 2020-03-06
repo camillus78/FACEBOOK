@@ -1,0 +1,51 @@
+.navbar{
+    background-color: slateblue;
+    border-bottom: 1px solid #133783;
+    color: white;
+}
+  #head {
+    font-weight: bold;
+    margin-left: 10%;
+    color: white;
+  }
+  
+  #head2 {
+    margin-left: 10%;
+    padding-top: 50px;
+  }
+  #email1 {
+    width: 200px;
+  }
+  .pad1 {
+    padding: 20px;
+  }
+  .font {
+    font-size: x-small;
+  }
+  .font1 {
+    font-size: small;
+  }
+  
+  body {
+    background-color: #edf0f5;
+  }
+  
+  .sec {
+    /* margin:0,px; */
+    background-color: #fff;
+  }
+  .mica {
+    margin: 10px;
+    background-color: #fff;
+  }
+  .col-lg-12 {
+    padding-top: 20px;
+    margin: 0px, 20px;
+  }
+  a {
+    color: #3b5998;
+  }
+
+  form{
+      display: inline;
+  }
